@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Student Innovation Day",
+    "date": "September 20, 2026",
+    "time": "9:00 AM - 4:00 PM",
+    "location": " Main Hall",
+    "category": "Technology",
+    "description": "A student innovation event where students present technology projects and creative solutions.",
+    "organizer": " Coding Club",
+    "image": "https://picsum.photos/seed/innovation/900/500"
+  },
+  {
+    "id": 2,
+    "name": "Environmental Awareness Day",
+    "date": "September 26, 2026",
+    "time": "8:30 AM - 1:00 PM",
+    "location": "Student Center",
+    "category": "Environment",
+    "description": "An awareness program focused on environmental responsibility and protecting culture  and natural resources",
+    "organizer": "Environmental Club",
+    "image": "https://picsum.photos/seed/environment/900/500"
+  },
+  {
+    "id": 3,
+    "name": "Student Career Workshop",
+    "date": "October 3, 2026",
+    "time": "10:00 AM - 2:00 PM",
+    "location": "Business Auditorium",
+    "category": "Career",
+    "description": "A practical workshop covering CV preparation, interviews, internships, networking, and career planning.",
+    "organizer": "Career Services",
+    "image": "https://picsum.photos/seed/career/900/500"
+  },
+  {
+    "id": 4,
+    "name": "Inter-Club Debate Competition",
+    "date": "October 10, 2026",
+    "time": "2:00 PM - 5:00 PM",
+    "location": "Main Hall",
+    "category": "Academic",
+    "description": "Student clubs compete in a friendly debate competition focused on communication and critical thinking.",
+    "organizer": "Bahir Dar Debate Club",
+    "image": "https://picsum.photos/seed/debate/900/500"
+  },
+  {
+    "id": 5,
+    "name": "Student Entrepreneurship Pitch Day",
+    "date": "October 17, 2026",
+    "time": "9:00 AM - 3:00 PM",
+    "location": "Innovation Center",
+    "category": "Business",
+    "description": "Students pitch innovative business ideas to a panel and receive feedback.",
+    "organizer": "Entrepreneurship Club",
+    "image": "https://picsum.photos/seed/pitch/900/500"
+  },
+  {
+    "id": 6,
+    "name": "Campus Sports Festival",
+    "date": "October 24, 2026",
+    "time": "8:00 AM - 5:00 PM",
+    "location": "Campus Sports Field",
+    "category": "Sports",
+    "description": "A campus-wide sports festival featuring football, volleyball, running, and other activities.",
+    "organizer": "Sports and Fitness Club",
+    "image": "https://picsum.photos/seed/sports/900/500"
+  }
+]
