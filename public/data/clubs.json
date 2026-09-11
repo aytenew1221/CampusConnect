@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "name": " Coding Club",
+    "category": "Technology",
+    "description": "A student community for learning programming, web development, software engineering, and problem solving.",
+    "longDescription": "This Coding Club brings students together to practice programming, build projects, participate in coding challenges, and share software development knowledge.",
+    "meetingDay": "Every Saturday",
+    "meetingTime": "2:00 PM - 4:00 PM",
+    "location": "Campus Innovation Lab",
+    "members": 86,
+    "interests": ["JavaScript", "React", "Python", "Git", "Web Development"],
+    "image": "https://picsum.photos/seed/codingclub/800/500"
+  },
+  {
+    "id": 2,
+    "name": "Environmental Club",
+    "category": "Environment",
+    "description": "Students working together to promote environmental awareness.",
+    "longDescription": "This club organizes environmental awareness activities, campus cleanups, tree planting, and educational discussions about Lake Tana and sustainable living.",
+    "meetingDay": "Every Friday",
+    "meetingTime": "3:00 PM - 5:00 PM",
+    "location": "Student Center",
+    "members": 64,
+    "interests": ["Environment", "Lake Tana", "Recycling", "Conservation"],
+    "image": "https://picsum.photos/seed/laketana/800/500"
+  },
+  {
+    "id": 3,
+    "name": "Debate Club",
+    "category": "Academic",
+    "description": "A discussion and public-speaking community where students develop communication and critical-thinking skills.",
+    "longDescription": "Members participate in debates, public speaking sessions, presentations, and discussions on academic and community topics.",
+    "meetingDay": "Every Wednesday",
+    "meetingTime": "4:00 PM - 6:00 PM",
+    "location": "Main Hall",
+    "members": 51,
+    "interests": [
+      "Debate",
+      "Public Speaking",
+      "Leadership",
+      "Critical Thinking"
+    ],
+    "image": "https://picsum.photos/seed/debateclub/800/500"
+  },
+  {
+    "id": 4,
+    "name": "Creative Arts Club",
+    "category": "Arts",
+    "description": "A creative community for students interested in art, photography, design, music, and creative expression.",
+    "longDescription": "The Creative Arts Club gives students an opportunity to express themselves through visual arts, photography, music, design, and cultural activities.",
+    "meetingDay": "Every Thursday",
+    "meetingTime": "3:00 PM - 5:00 PM",
+    "location": "Arts Room",
+    "members": 73,
+    "interests": ["Photography", "Drawing", "Design", "Music", "Culture"],
+    "image": "https://picsum.photos/seed/creativearts/800/500"
+  },
+  {
+    "id": 5,
+    "name": "Entrepreneurship Club",
+    "category": "Business",
+    "description": "A student-led community focused on entrepreneurship, innovation, business ideas, and startups.",
+    "longDescription": "Students can develop business ideas, learn about entrepreneurship, meet other innovators, and practice presenting ideas through pitch sessions.",
+    "meetingDay": "Every Monday",
+    "meetingTime": "4:00 PM - 6:00 PM",
+    "location": "Business Lab",
+    "members": 92,
+    "interests": ["Entrepreneurship", "Startups", "Marketing", "Business"],
+    "image": "https://picsum.photos/seed/businessclub/800/500"
+  },
+  {
+    "id": 6,
+    "name": "Sports and Fitness Club",
+    "category": "Sports",
+    "description": "A community for students interested in sports, fitness, teamwork, and healthy lifestyles.",
+    "longDescription": "The club organizes football, volleyball, running, fitness activities, and friendly competitions for students.",
+    "meetingDay": "Every Sunday",
+    "meetingTime": "8:00 AM - 11:00 AM",
+    "location": "Campus Sports Field",
+    "members": 118,
+    "interests": ["Football", "Volleyball", "Running", "Fitness"],
+    "image": "https://picsum.photos/seed/sportsclub/800/500"
+  }
+]
