@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Campus Library",
+    "category": "Library",
+    "description": "Access books, study materials, digital resources, and quiet study spaces.",
+    "contact": "library@campusconnect.et",
+    "location": "Main Library"
+  },
+  {
+    "id": 2,
+    "title": "Academic Support Center",
+    "category": "Academic Support",
+    "description": "Get help with study skills, assignments, tutoring, and academic planning.",
+    "contact": "academic@campusconnect.et",
+    "location": "Academic Building"
+  },
+  {
+    "id": 3,
+    "title": "Career Services",
+    "category": "Career Services",
+    "description": "Find career guidance, internship information, CV support, and interview preparation.",
+    "contact": "careers@campusconnect.et",
+    "location": "Student Center"
+  },
+  {
+    "id": 4,
+    "title": "Student Affairs Office",
+    "category": "Student Services",
+    "description": "Student support, campus activities, student concerns, and community services.",
+    "contact": "students@campusconnect.et",
+    "location": "Administration Building"
+  },
+  {
+    "id": 5,
+    "title": "ICT Help Desk",
+    "category": "Student Services",
+    "description": "Technical support for campus systems, Wi-Fi, student accounts, and computer labs.",
+    "contact": "ict@campusconnect.et",
+    "location": "ICT Center"
+  },
+  {
+    "id": 6,
+    "title": "Student Counseling Service",
+    "category": "Student Services",
+    "description": "A confidential support service for students who need guidance and assistance.",
+    "contact": "support@campusconnect.et",
+    "location": "Student Center"
+  }
+]
